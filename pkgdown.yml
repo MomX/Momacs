@@ -1,0 +1,8 @@
+pandoc: '2.5'
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles: []
+urls:
+  reference: http://momx.github.io/Momacs/reference
+  article: http://momx.github.io/Momacs/articles
+
