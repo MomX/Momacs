@@ -22,7 +22,7 @@
 #' }
 #'
 #' @export
-Momacs <- function(folder_path = NULL) {
+momacs <- function(folder_path = NULL) {
   # Set up resource path for static files
   app_dir <- system.file("app", package = "momacs")
   if (app_dir == "") {

@@ -2,9 +2,12 @@
 % Please edit documentation in R/momacs-package.R
 \docType{package}
 \name{Momacs-package}
+\alias{Momacs}
 \alias{Momacs-package}
 \title{Momacs: Morphometric Digitization Application}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Interactive Shiny application for digitizing morphometric data from images. Supports landmarks, polylines, polygons, curves, and outlines with export to JSON format.
 }
 \seealso{
