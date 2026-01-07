@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2026-01-07T20:46Z
+last_built: 2026-01-07T20:48Z
 urls:
   reference: https://momx.github.io/Momacs/reference
   article: https://momx.github.io/Momacs/articles
